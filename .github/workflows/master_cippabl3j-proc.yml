@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippabl3j-proc'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_93ECC02D50DE4BF5A2854680CFF08D97 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9CBA3A71C3EB4CD28CCB9AF0F5247F73 }}
