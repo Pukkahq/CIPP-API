@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippabl3j-auditlog'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C98AC42D291F4EC9B9CBB0CA0C868A7C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E806A493541C442BAFC701FA554FAA2A }}
